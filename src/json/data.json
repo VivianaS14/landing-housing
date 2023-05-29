@@ -1,0 +1,106 @@
+{
+  "data": {
+    "projectName": "VERDEPINO",
+    "location": "Calle 7 No. 25 - 95",
+    "LatLong": [4.7400507, -74.279383],
+    "city": "Madrid",
+    "state": "Cundinamarca",
+    "country": "Colombia",
+    "price": 187000000,
+    "añoEntrega": 2024,
+    "introducingVideo": "https://www.youtube.com/watch?v=DcIHI_Qqr8E&t=2s",
+    "images": [
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-project/field-project-images/renders_verdepino_nov2021_parque_1.jpg?itok=Jm6bFUMu",
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-project/field-project-images/renders_verdepino_nov2021_comercio_1.jpg?itok=DBxCnIhH",
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-project/field-project-images/verdepino_oct2021_piscina.jpg?itok=63rBzBYF",
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-project/field-project-images/renders_verdepino_nov2021_porteria_1.jpg?itok=vUh8YLz8"
+    ],
+    "drawingsProject": [
+      "https://onceconstructora.com/wp-content/uploads/2021/10/Imp_Prosp-verdepino.jpg",
+      "https://onceconstructora.com/wp-content/uploads/2021/10/Imp_proy-31.jpg"
+    ],
+    "drawingsApartment": [
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-tipology/field--tipology-planos/verdepino_oct2021_medianero_acabados.jpg?itok=ltTf-oC9",
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-tipology/field--tipology-planos/verdepino_oct2021_medianero_gris.jpg?itok=bOwdmgxo",
+      "https://www.estrenarvivienda.com/sites/default/files/styles/tipology_view_full/public/node-tipology/field--tipology-planos/fichasaptos_verdepino_oct2021_medianero-1.jpg?itok=gPLpcY-n"
+    ],
+    "apartmentDetails": {
+      "areaConstruida": 58.1,
+      "areaPrivada": 50.0,
+      "estado": "Sobre planos",
+      "alcobas": 3,
+      "banos": 2,
+      "garajes": "Comunal",
+      "caracteristicaGaraje": "Independiente",
+      "tipoGaraje": "Cubierto y descubierto",
+      "estrato": 4,
+      "balcon": true,
+      "areaBalcon": 0.9,
+      "acabados": "Nivel 2 - Obra Gris",
+      "nivelesInmueble": 1,
+      "salaComedor": "Integrado",
+      "calentadorAgua": "Gas",
+      "vista": "Interior y Exterior",
+      "bañoSocial": true,
+      "estudio": true,
+      "gasNatural": true,
+      "zonaRopas": "independiente"
+    },
+    "projectDetails": {
+      "estado": "Sobre planos",
+      "pisosTorre": 13,
+      "torres": 8,
+      "ascensorTorre": 2,
+      "apartamentosPiso": 8,
+      "relacionParqueaderos": "2 : 1",
+      "fechaEntrega": "Octubre - 2024",
+      "bbq": true,
+      "bicicleteros": true,
+      "canchaMultiple": true,
+      "conjunto": "Cerrado",
+      "coworking": true,
+      "gimnasio": true,
+      "parqueInfantil": false,
+      "juegosInfantiles": true,
+      "lobby": true,
+      "parqueaderoVisitantes": true,
+      "piscina": true,
+      "porteria": true,
+      "recepcion": true,
+      "salonComunal": true,
+      "salonJuegos": true,
+      "salonInfantil": true,
+      "salonSocial": false,
+      "shut": true,
+      "petFriendly": true
+    },
+    "paymentMethod": {
+      "separacion": 800000,
+      "cuotaInicial": 56100000,
+      "saldoFinanciar": 130900000,
+      "banco": "Todas las entidades",
+      "cuotas": [
+        {
+          "plazoAños": 10,
+          "cuotaMensual": 1923717
+        },
+        {
+          "plazoAños": 15,
+          "cuotaMensual": 1621900
+        },
+        {
+          "plazoAños": 20,
+          "cuotaMensual": 1496446
+        },
+        {
+          "plazoAños": 25,
+          "cuotaMensual": 1437051
+        },
+        {
+          "plazoAños": 30,
+          "cuotaMensual": 1407206
+        }
+      ]
+    }
+  }
+}
