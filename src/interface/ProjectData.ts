@@ -7,7 +7,7 @@ export interface DataProject {
 export interface Data {
   projectName: string;
   location: string;
-  LatLong: [number, number];
+  LatLong: number[];
   city: string;
   state: string;
   country: string;

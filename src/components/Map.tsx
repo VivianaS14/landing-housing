@@ -4,7 +4,7 @@ import { useData } from "../hooks/useData";
 
 export const Map = () => {
   const { project } = useData();
-  const position: [number, number] = project.LatLong;
+  const position: [number, number] = project.LatLong as [number, number];
   const address = project.location + ", " + project.city;
 
   return (
