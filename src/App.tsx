@@ -28,7 +28,7 @@ function App() {
       </main>
       <section className="my-10 flex items-center gap-2">
         <AiOutlineArrowUp />
-        <a href="#Home">Volver arriba</a>
+        <a href="#Home">Volver</a>
       </section>
     </>
   );
